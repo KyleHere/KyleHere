@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+* :star: I am currently working on and adding new features to [Gamernite](https://github.com/KyleHere/Gamernite), an event planner focused on Gaming tournaments, convention, or just your local get-togethers
+
+* :wave: I'm always looking for new people to collaborate with on new exciting projects.
+
+* :computer: Big fan of everything tech and tech-related, and would love to sit down and talk about that new invention.
+
 <!--
 **KyleHere/KyleHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
